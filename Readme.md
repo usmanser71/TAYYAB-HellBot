@@ -183,13 +183,17 @@ Contributions via pull requests are welcome.
 
 ---
 
-📄 License
-
-This project is licensed under the MIT License.
-
+## 📄 License
+This project is licensed under the **MIT License**.  
 
 ---
 
-> Enjoy TAYYAB HELL-BOT, your ultimate WhatsApp automation and fun bot! 🌹
+✨💀🔥 **Enjoy TAYYAB HELL-BOT, your ultimate WhatsApp automation & fun bot!** 🌹  
 
+[![GitHub Stars](https://img.shields.io/github/stars/TAYYAB-Exploits/TAYYAB-HellBot?style=for-the-badge)](https://github.com/TAYYAB-Exploits/TAYYAB-HellBot/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/TAYYAB-Exploits/TAYYAB-HellBot?style=for-the-badge)](https://github.com/TAYYAB-Exploits/TAYYAB-HellBot/network/members)
+[![YouTube](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-Deploy%20Guide-red?style=for-the-badge&logo=youtube)](https://youtu.be/p13hMgAlznk?si=5MKZQm0ockqob1KQ)
+
+💫🚀 **Let the bot do the magic in your WhatsApp groups!**
 
