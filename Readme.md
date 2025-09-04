@@ -1,4 +1,4 @@
-# TAYYAB HELL-BOT 🔥
+# TAYYAB HELL-MD 🔥
 
 ![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
 
