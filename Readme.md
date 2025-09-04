@@ -74,11 +74,9 @@ node --watch index.js
 
 📹 Video Tutorials
 
-How to deploy TAYYAB HELL-MD on Termux:
-Watch Video
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/p13hMgAlznk?si=5MKZQm0ockqob1KQ)
 
-Tayyab ExploitZ YouTube Channel:
-Visit Channel
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
 
 
 
