@@ -188,7 +188,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-✨💀🔥 **Enjoy TAYYAB HELL-BOT, your ultimate WhatsApp automation & fun bot!** 🌹  
+✨💀🔥 **Enjoy TAYYAB HELL-MD, your ultimate WhatsApp automation & fun bot!** 🌹  
 
 [![GitHub Stars](https://img.shields.io/github/stars/TAYYAB-Exploits/TAYYAB-HellBot?style=for-the-badge)](https://github.com/TAYYAB-Exploits/TAYYAB-HellBot/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/TAYYAB-Exploits/TAYYAB-HellBot?style=for-the-badge)](https://github.com/TAYYAB-Exploits/TAYYAB-HellBot/network/members)
