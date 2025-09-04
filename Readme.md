@@ -53,22 +53,22 @@ git clone https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
 cd TAYYAB-HellBot
 termux-setup-storage
 ```
-Step 3: Clean Hidden Auth Files
-```bash
-rm -rf auth_info/*
-```
-Step 4: Install Node Modules
+Step 3: Install Node Modules
 ```bash
 npm install
+```
+Step 4: Clean Hidden Auth Files
+```bash
+rm -rf auth_info/*
 ```
 Step 5: Run The Bot
 ```bash
 npm start
 ```
 ✅ Bonus: Auto reload
-
+```bash
 node --watch index.js
-
+```
 
 ---
 
