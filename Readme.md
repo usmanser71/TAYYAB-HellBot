@@ -2,51 +2,35 @@
 
 ![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
 
-Welcome to **TAYYAB HELL-BOT**, the ultimate WhatsApp Termux bot powered by **Tayyab Exploits**. 🚀  
-This bot is packed with **222+ commands**, group management tools, automation, fun utilities, media features, and more! Tested on Termux, Kali Linux, Panel environments, and most terminals.  
+Welcome to **TAYYAB HELL-BOT**, a powerful WhatsApp Termux bot developed by **Tayyab Exploits**. 🚀  
+This bot is fully tested on Termux, Linux (Kali, Ubuntu), Panels, and other terminal environments.  
 
 ---
 
-## 🌟 Features & Highlights
+## 🌟 About TAYYAB HELL-BOT
 
-- Fully tested WhatsApp automation bot. ✅  
-- Supports **group hijack**, **anti-link**, **auto-typing**, and **media management**.  
-- Fun commands like `.love`, `.animal`, `.ping`, `.media` etc.  
-- Works seamlessly on **Termux**, **Linux machines** (Kali, Ubuntu), **remote panels**, and other terminals.  
-- Lightweight, efficient, and fully customizable.  
-- Includes hidden **auth_info cleanup** command to safely reset bot authentication.  
-- Perfect for power users who want full control over their WhatsApp groups.  
-- Comes with **video tutorials** and deployment guides.  
+TAYYAB HELL-BOT is a fully loaded WhatsApp bot offering **222+ commands** for automation, media handling, fun utilities, group management, and more.  
+Whether you want **auto typing, media download, group management**, or just **fun text games**, this bot has it all.  
+
+**Perfect for**: Termux users, Linux enthusiasts, developers, and bot lovers who want a full-featured WhatsApp bot.  
 
 ---
 
-## ⚡ Commands
+## 📦 Features
 
-Here are some of the most important commands you can use:
-
-| Command | Description |
-|---------|-------------|
-| `.hijack` | Hijacks a group: demotes all admins except the bot, changes group name & description. |
-| `.video <name>` | Download YouTube video by name. |
-| `.animal <text>` | Converts text into Animal Unicode glitch text. |
-| `.antilink` | Detect and block links in the group. |
-| `.antilinkkick` | Detect links and kick the user automatically. |
-| `.autotyping` | Enable auto typing simulation in chat. |
-| `.ping` | Check if bot is alive. |
-| `.setpp <reply to image>` | Set bot profile picture. |
-| `.love <name>` | Fun love text generator. |
-| `.media` | Shows media folder contents. |
-| `.core` | Core commands & utilities. |
-
-> Note: Many commands require **bot admin privileges** in groups to function properly.  
+- Fully tested on **Termux, Linux, and Panels**.  
+- **222+ commands** for groups, media, fun, utilities, AI, and more.  
+- **Auto-typing** simulation.  
+- Media folder support for images, stickers, and icons.  
+- Fully customizable and modular.  
 
 ---
 
-## 🚀 Installation Commands (Termux)
+## 🚀 Installation Guide (Termux)
 
-Follow these **step-by-step commands** to deploy TAYYAB HELL-BOT:
+Follow these step-by-step commands to deploy the bot:
 
-### 🟢 Step 1: Install Required Packages
+### Step 1: Update & Install Required Packages
 ```bash
 pkg update && pkg upgrade -y
 pkg install nodejs -y
@@ -54,41 +38,33 @@ pkg install git -y
 pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
+```
 
-⚠️ During installation, if prompted:
+> Tip: If prompted with "Do you want to continue? [Y/n]", type y and press Enter. ✅
 
-Do you want to continue? [Y/n]
 
-✅ Type y and press Enter to continue.
 
 
 ---
 
-📥 Step 2: Clone This Repo
-
+Step 2: Clone Repo & Setup
+```bash
 git clone https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
 cd TAYYAB-HellBot
-
-> Optional Cleanup: To remove hidden auth info files safely:
-
-
-
+termux-setup-storage
+```
+Step 3: Clean Hidden Auth Files
+```bash
 rm -rf auth_info/*
-
-
----
-
-🧱 Step 3: Install Node Modules
-
+```
+Step 4: Install Node Modules
+```bash
 npm install
-
-
----
-
-🔐 Step 4: Run The Bot
-
-node index.js
-
+```
+Step 5: Run The Bot
+```bash
+npm start
+```
 ✅ Bonus: Auto reload
 
 node --watch index.js
@@ -96,10 +72,10 @@ node --watch index.js
 
 ---
 
-📹 Deployment & Video Tutorials
+📹 Video Tutorials
 
 How to deploy TAYYAB HELL-MD on Termux:
-YouTube Video Guide
+Watch Video
 
 Tayyab ExploitZ YouTube Channel:
 Visit Channel
@@ -108,19 +84,88 @@ Visit Channel
 
 ---
 
+🌐 Social Media
+
+Follow Tayyab Exploits for updates, tips, and more bots:
+
+YouTube: Tayyab ExploitZ
+
+TikTok: Tayyab ExploitZ TikTok
+
+Instagram: Tayyab ExploitZ IG
+
+
+
+---
+
 📂 Media Folder
 
-All media resources (images, icons, and sample files) are inside the media/ folder.
-Example image displayed at the top: media/HELL.jpg
+All images, icons, and media files are in the media/ folder.
+Example: media/HELL.jpg is used as the bot banner shown above.
+
+
+---
+
+📝 Menus in TAYYAB HELL-BOT
+
+Here are all menus included in the bot, with full command coverage (222+ commands):
+
+Allmenu
+Owner menu
+Group menu
+Download menu
+Auto menu
+AI menu
+GitHub menu
+Logo menu
+Tools menu
+Text menu
+Utility menu
+Exploits menu
+Photo menu
+React menu
+Game menu
+Fun menu
+Anime menu
+
+> Each menu contains multiple commands for that category. Commands are fully tested.
+
+
+
+
+---
+
+💻 Supported Platforms
+
+Termux (Android)
+
+Linux (Kali Linux, Ubuntu)
+
+Panel Hosting
+
+Other terminals with Node.js support
+
+
+
+---
+
+⚡ Additional Information
+
+Commands are fully modular and easy to customize.
+
+Bot can handle group management, media operations, AI commands, fun games, and more.
+
+Supports auto-reload for continuous uptime.
+
 
 
 ---
 
 📝 Disclaimer
 
-TAYYAB HELL-BOT is meant for educational purposes and WhatsApp automation learning.
+This bot is meant for educational and testing purposes.
 
-Do not use for illegal activities or spam.
+Do not use for spam or illegal activities.
 
 Use at your own risk.
 
@@ -130,16 +175,23 @@ Use at your own risk.
 
 ❤️ Support & Contributions
 
-Star the repo ⭐ if you like the project.
+Star ⭐ the repo if you like it.
 
-Fork it to make your own modifications.
+Fork and modify for your own use.
 
-Contributions are welcome via pull requests.
+Contributions via pull requests are welcome.
 
 
 
 ---
 
-> Enjoy TAYYAB HELL-BOT, your ultimate WhatsApp bot companion for Termux, Linux, and beyond! 🌹
+📄 License
+
+This project is licensed under the MIT License.
+
+
+---
+
+> Enjoy TAYYAB HELL-BOT, your ultimate WhatsApp automation and fun bot! 🌹
 
 
