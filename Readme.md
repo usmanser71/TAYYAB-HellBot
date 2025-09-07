@@ -26,6 +26,14 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 ---
 
+📹 Video Tutorials
+
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/p13hMgAlznk?si=5MKZQm0ockqob1KQ)
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
+
+---
+
 ## 🚀 Installation Guide (Termux)
 
 Follow these step-by-step commands to deploy the bot:
@@ -41,7 +49,6 @@ pkg install imagemagick -y
 ```
 
 > Tip: If prompted with "Do you want to continue? [Y/n]", type y and press Enter. ✅
-
 
 
 
