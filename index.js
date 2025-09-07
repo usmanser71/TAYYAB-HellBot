@@ -24,12 +24,12 @@ async function startBot() {
   const sock = makeWASocket({ version, auth: state, logger: P({ level: "fatal" }) });
 
   const settings = typeof loadSettings === 'function' ? loadSettings() : {};
-  let ownerRaw = settings.ownerNumber?.[0] || "92300xxxxxxx";
+  let ownerRaw = settings.ownerNumber?.[0] || "923351300389";
   const ownerJid = ownerRaw.includes("@s.whatsapp.net") ? ownerRaw : ownerRaw + "@s.whatsapp.net";
 
   global.sock = sock;
   global.settings = settings;
-  global.signature = settings.signature || "> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓";
+  global.signature = settings.signature || "> 𓆩مسٹــــࣻ͢ــــر عُــثــــࣻ͢ــــمَـــان 𓆪";
   global.owner = ownerJid;
   global.ownerNumber = ownerRaw;
 
