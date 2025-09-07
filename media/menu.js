@@ -16,10 +16,10 @@ const uptimeStr = `${hours}h ${minutes}m ${seconds}s`
 
 // Status box to show at menu start & each category start
 const statusBox = `
-╭━━〔𝙏𝘼𝙔𝙔𝘼𝘽 𝙃𝙀𝙇𝙇-𝙈𝐃〕━╮
+╭━━〔𓆩مسٹــــࣻ͢ــــر عُــثــــࣻ͢ــــمَـــان 𓆪〕━╮
 ┃ 🔥 Mode: PRIVATE | FULL POWER
-┃ 💀 Status: HELL PROTOCOL ACTIVE
-┃ 👑 Owner: 𝕋𝔸𝕐𝕐𝔸𝔹 ☠️
+┃ 💀 Status:PROTOCOL ACTIVE
+┃ 👑 Owner: 𓆩𝐔𝐒𝐌𝐀𝐍 𝐒𝐄𝐑𓆪 ☠️
 ┃ ⚡ Version: 6.6.6 (Hell Build)
 ┃ ⏳ Uptime: ${uptimeStr}
 ┃ 📅 Date: ${date}
@@ -31,7 +31,7 @@ const statusBox = `
 
 global.menu = `
 ${statusBox}
-╔═══❖•⊰ *TAYYAB HELL-MD ALL MENU* ⊱•❖═══╗
+╔═══❖•⊰ *USMAN-SER ALL MENU* ⊱•❖═══╗
 ║◈ .menu
 ║◈ .menuowner
 ║◈ .downloadmenu
@@ -333,7 +333,7 @@ ${readMore}
 
 
 // 📂 menu.js
-// 🌟 Full Stylish Global Menus — TAYYAB HELL-MD
+// 🌟 Full Stylish Global Menus — 𓆩مسٹــــࣻ͢ــــر عُــثــــࣻ͢ــــمَـــان 𓆪
 
 // ================== OWNER MENU ==================
 global.ownermenu = `
