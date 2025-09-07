@@ -56,7 +56,7 @@ pkg install imagemagick -y
 
 Step 2: Clone Repo & Setup
 ```bash
-git clone https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
+git clone [https://github.com/usmanser71/TAYYAB-HellBot
 cd TAYYAB-HellBot
 termux-setup-storage
 ```
